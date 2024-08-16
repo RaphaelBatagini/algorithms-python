@@ -1,0 +1,1 @@
+print("Run an algorithms by executing docker compose run app python -m [algorithms_path]");
